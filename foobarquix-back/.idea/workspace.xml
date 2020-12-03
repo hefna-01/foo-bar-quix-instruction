@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6235895d-b9f1-4e59-b143-a65f7c64a07f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/kata/foobarquix/FooBarQuixControllerTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foobarquix-ui/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foobarquix-ui/.idea/foobarquix-ui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foobarquix-ui/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foobarquix-ui/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foobarquix-ui/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foobarquix-ui/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foobarquix-ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../foobarquix-ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foobarquix-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../foobarquix-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foobarquix-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../foobarquix-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foobarquix-ui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../foobarquix-ui/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foobarquix-ui/src/app/foo-bar-quix-form/foo-bar-quix-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../foobarquix-ui/src/app/foo-bar-quix-form/foo-bar-quix-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foobarquix-ui/src/app/foo-bar-quix.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../foobarquix-ui/src/app/foo-bar-quix.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foobarquix-ui/src/app/nav-bar/nav-bar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../foobarquix-ui/src/app/nav-bar/nav-bar.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foobarquix-ui/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../foobarquix-ui/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foobarquix-ui/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../foobarquix-ui/src/environments/environment.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +48,10 @@
   <component name="ProjectId" id="1l9J2YLbPN1We5t2Mz1Ju4aMQ9P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -51,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FooBarQuixControllerTest">
+  <component name="RunManager" selected="Spring Boot.FooBarQuixApplication">
     <configuration name="FooBarQuixApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="foo-bar-quix" />
       <extension name="coverage">
@@ -123,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607003166550</updated>
-      <workItem from="1607003169422" duration="5154000" />
+      <workItem from="1607003169422" duration="6690000" />
     </task>
     <servers />
   </component>
