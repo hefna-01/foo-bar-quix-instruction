@@ -1,4 +1,6 @@
 foobarquix-back/*.iml
 foobarquix-back/target
 foobarquix-ui/node_modules
+foobarquix-back/.idea
+foobarquix-ui/.idea
 
